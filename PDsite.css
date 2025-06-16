@@ -31,15 +31,12 @@ img.profile {
   margin-bottom: 20px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
-.row {
+.hall {
+  width: 250px;
   display: flex;
   justify-content: space evenly;
   flex-wrap: wrap;
   align-content: flex-start;
+  border: 1px solid black;
 }
 
-.column {
-  flex: 10%;
-  padding: 5px;
-  width: 25%;
-}
