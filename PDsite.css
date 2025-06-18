@@ -36,6 +36,6 @@ img.hall {
   display: inline-block;
   margin: 5px;
   border: 1px solid black;
-  object-fit: cover;
+  object-fit: contain;
 }
 
