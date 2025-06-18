@@ -36,5 +36,6 @@ img.profile {
   display: inline-block;
   margin: 5px;
   border: 1px solid black;
+  object-fit: cover;
 }
 
