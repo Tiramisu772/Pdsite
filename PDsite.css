@@ -38,6 +38,8 @@ img.profile {
 } 
 
 img.fame {
+  display: flex;
+  flex-wrap: wrap;
    object-fit: cover;
   width: 85%; 
 }
